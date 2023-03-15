@@ -3,8 +3,8 @@
   padding: initial;
 }
 body {
-  /* background-color: rgb(6, 6, 6); */
-  background: url(pochitaBG.jpg);
+  background-color: rgb(6, 6, 6);
+/*   background: url(pochitaBG.jpg); */
   background-size: cover;
   background-attachment: fixed;
 }
